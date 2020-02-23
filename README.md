@@ -1,2 +1,3 @@
-# Sendgrid Emails
-Check out my YouTube video <a href="https://www.youtube.com/watch?v=fHS3ya88CRY">here</a>
+# Sendgrid Email App
+
+A Send Email Application built with Express, Node.js and SendGrid API, written in Javascript
